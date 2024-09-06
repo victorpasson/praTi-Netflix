@@ -1,0 +1,10 @@
+/* Fonte padrão */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700&display=swap');
+
+/* Estilo padrão para o body */
+body {
+    font-family: 'Open Sans', Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
